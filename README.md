@@ -54,7 +54,7 @@ $ ./configure \
 $ make && make test && make install
 ```
 
-### Step 4. Copying files to the home directory
+### Step 4. Copy files to the home directory
 
 ``` bash
 $ cp .gdbinit ~
